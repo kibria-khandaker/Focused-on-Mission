@@ -1,12 +1,42 @@
 body {
-  /* background-image: url(mission2022.jpg); */
-  background-position: top center;
-  background-size: cover;
-  background-repeat: no-repeat;
   font-family: "Poppins", sans-serif;
   margin-left: 15px;
   color: #333333;
   margin: 0px;
+}
+p {
+  font-size: 18px;
+  font-weight: 400;
+  padding: 20px 0px 15px 0px;
+}
+.btn {
+  background-color: #2196f3;
+  padding: 15px 43px;
+  border-radius: 5px;
+  color: #fff;
+  text-decoration: none;
+  font-size: 17px;
+}
+h2 {
+  text-align: center;
+  font-size: 51px;
+  margin-top: 60px;
+}
+h3 {
+  font-size: 40px;
+  text-transform: capitalize;
+  margin-bottom: -25px;
+}
+h4 {
+  color: #5a5a5a;
+  font-size: 25px;
+  padding: 0px;
+  margin: 6px 0px -25px 0px;
+}
+h5 {
+  font-size: 20px;
+  text-transform: uppercase;
+  font-weight: 300;
 }
 section {
   margin: 0 10%;
@@ -43,40 +73,7 @@ section {
   width: 90%;
   margin-left: 30px;
 }
-p {
-  font-size: 18px;
-  font-weight: 400;
-  padding: 20px 0px 15px 0px;
-}
-.btn {
-  background-color: #2196f3;
-  padding: 15px 43px;
-  border-radius: 5px;
-  color: #fff;
-  text-decoration: none;
-  font-size: 17px;
-}
-h2 {
-  text-align: center;
-  font-size: 51px;
-  margin-top: 60px;
-}
-h3 {
-  font-size: 40px;
-  text-transform: capitalize;
-  margin-bottom: -25px;
-}
-h4 {
-  color: #5a5a5a;
-  font-size: 25px;
-  padding: 0px;
-  margin: 6px 0px -25px 0px;
-}
-h5 {
-  font-size: 20px;
-  text-transform: uppercase;
-  font-weight: 300;
-}
+
 .my_mission_feature {
   width: 33%;
   margin: 20px;
